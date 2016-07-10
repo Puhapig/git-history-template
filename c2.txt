@@ -1,0 +1,10 @@
+some file text
+some more text
+
+newline
+
+	tab
+		double tab
+
+blank newline vvvv
+
